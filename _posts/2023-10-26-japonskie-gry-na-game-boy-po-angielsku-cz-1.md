@@ -7,6 +7,7 @@ categories:
 tags:
 - gameboy
 img_path: "/202310/"
+date: 2023-10-26 16:03 +0200
 ---
 Ten post powstał po to, aby spisać listę gier na Game Boy, które mimo że wydane w Japonii, są po angielsku lub znajomość języka w ogóle nie jest potrzebna. Powód? Te gry kosztują przeważnie ułamek kwoty, którą trzeba wydać za wydanie europejskie lub amerykańskie. W tym poście skupię się na grach, które posiadam w kolekcji, albo przeleciały mi przez ręce. Zrzuty ekranu są oczywiśćie z japońskich lub globalnych wersji. Kolejność tytułów przypadkowa.
 
