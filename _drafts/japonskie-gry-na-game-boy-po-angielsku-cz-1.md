@@ -8,7 +8,7 @@ tags:
 - gameboy
 img_path: "/202310/"
 ---
-Ten post powstał po to, aby spisać listę gier na Game Boy, które mimo że wydane w Japonii, są po angielsku lub znajomość języka w ogóle nie jest potrzebna. Powód? Te gry kosztują przeważnie ułamek kwoty, którą trzeba wydać za wydanie europejskie lub amerykańskie. Czy są jakieś minusy japońskich wydań? No są. Ponieważ premiery w EU/USA są później niż w Japonii, programiści mają więcej czasu na poprawienie ewentualnych błędów. W tym poście skupię się na grach, które posiadam w kolekcji, albo przeleciały mi przez ręce. Zrzuty ekranu są oczywiśćie z japońskich lub światowych wersji.
+Ten post powstał po to, aby spisać listę gier na Game Boy, które mimo że wydane w Japonii, są po angielsku lub znajomość języka w ogóle nie jest potrzebna. Powód? Te gry kosztują przeważnie ułamek kwoty, którą trzeba wydać za wydanie europejskie lub amerykańskie. W tym poście skupię się na grach, które posiadam w kolekcji, albo przeleciały mi przez ręce. Zrzuty ekranu są oczywiśćie z japońskich lub globalnych wersji. Kolejność tytułów przypadkowa.
 
 ## Tetris 
 
@@ -31,7 +31,7 @@ Gry przedstawiać nie trzeba. Wydana w 1989 roku. Tytuł startowy na Game Boya. 
 
 ## Kirby's Dream Land
 
-Wydana w 1992 roku, pierwsza z serii traktującej o Kirby. Japońska grafika, dosyć uboga w porównaniu z USA/EU. Aktualnie na allegro widzę w cenie 55 zł. Ktoś zrobił porównanie wersji na [youtube](https://www.youtube.com/watch?v=0IGTjZ0OK5k).
+Wydana w 1992 roku, pierwsza z serii traktującej o Kirby. Japońska grafika, dosyć uboga w porównaniu z USA/EU. Aktualnie na allegro widzę w cenie 55 zł. Ktoś nawet zrobił porównanie wersji na [youtube](https://www.youtube.com/watch?v=0IGTjZ0OK5k).
 [Porównaj kartridże na Juxtapose](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d0b66bbe-7115-11ee-b5be-6595d9b17862)
 
 ![Kirby Dream's Land](kirbydreamsland01.png){: w="160" h="144" .normal }
@@ -58,7 +58,26 @@ Port z arcade z 1991 roku. Wersja na Game boy wzbogacona o ekrany końcowe zwią
 
 ## Yoshi's Cookie
 
-## Yoshi's Egg
+Gra puzzle wydana na Game Boy w 1992 roku. Wersja JP ~30 zł, a EU po 55+ zł.
+[Porównaj kartridże na Juxtapose](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e88ea97c-72aa-11ee-b5be-6595d9b17862)
+
+![Yoshi's Cookie](yoshicookie01.png){: w="160" h="144" .normal }
+![Yoshi's Cookie](yoshicookie02.png){: w="160" h="144" .normal }
+![Yoshi's Cookie](yoshicookie03.png){: w="160" h="144" .normal }
+
+
+## Mario & Yoshi
+
+W USA znane pod tytułem Yoshi, w Japonii: Yoshi no Tamago - dosłowne tłumaczenie oznacza "Jajko Yoshi", każde wydanie z inną grafiką, zobaczyć je możecie na mobygames.com: [JP](https://www.mobygames.com/game/4402/yoshi/cover/group-91975/cover-771310/), [EU](https://www.mobygames.com/game/4402/yoshi/cover/group-63158/cover-170585/), [USA](https://www.mobygames.com/game/4402/yoshi/cover/group-5967/cover-432801/). Są to kolejne puzzle z Yoshim. Gra wydana na kieszonsolkę w 1991 roku. Za japoński kartridż trzeba zapłacić 30 zł, a EU to 40 zł.
+
+![Mario & Yoshi](yoshiegg01.png){: w="160" h="144" .normal }
+![Mario & Yoshi](yoshiegg02.png){: w="160" h="144" .normal }
+![Mario & Yoshi](yoshiegg03.png){: w="160" h="144" .normal }
 
 ## Dr Mario
 
+Kolejne "klocki", dość popularne w naszym kraju na Pegasusie - klonie NESa. Wydane w 1990 roku. Wersja JP ~30 zł, wersja EU ~60 zł [Porównaj kartridże na Juxtapose](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b7e93ea8-7373-11ee-b5be-6595d9b17862) 
+
+![Dr Mario](drmario01.png){: w="160" h="144" .normal }
+![Dr Mario](drmario02.png){: w="160" h="144" .normal }
+![Dr Mario](drmario03.png){: w="160" h="144" .normal }

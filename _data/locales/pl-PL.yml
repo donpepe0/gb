@@ -30,20 +30,19 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: Ten post jest objęty przez autora licencją :LICENSE_NAME.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Jakieś prawa zastrzeżone.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Jesli nie zaznaczono inaczej, to wszystkie posty objęte są licencją Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-meta: Using the :THEME theme for :PLATFORM
+meta: Szablon :THEME dla :PLATFORM
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statment: Przepraszamy, takie miejsce nie istnieje.
 
 notification:
   update_found: Nowa zawartość jest dostępna.
@@ -60,7 +59,7 @@ post:
   read_time:
     unit: min
     prompt: czytania
-  relate_posts: Further Reading
+  relate_posts: Czytaj dalej
   share: Share
   button:
     next: Nowsze
